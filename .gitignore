@@ -1,8 +1,0 @@
-cmd.txt
-main window.ui
-build
-dist
-main.spec
-test.py
-__pycache__
-.gitignore
