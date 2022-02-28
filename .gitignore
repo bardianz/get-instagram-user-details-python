@@ -5,3 +5,4 @@ dist
 main.spec
 test.py
 __pycache__
+.gitignore
